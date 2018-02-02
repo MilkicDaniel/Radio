@@ -1,0 +1,363 @@
+[
+	{
+		"name":"R/a/dio",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s174185q.png",
+		"URL":"https://r-a-d.io/",
+		"streamURL":"https://relay0.r-a-d.io/main.mp3",
+		"lowQualityStreamURL":"https://relay0.r-a-d.io/main.mp3",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"Anime Amaze",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s111618q.png",
+		"URL":"http://www.animeamaze.com/web/",
+		"streamURL":"http://192.243.109.237:8000/anime.mp3",
+		"lowQualityStreamURL":"http://192.243.109.237:8000/anime.mp3",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"Anime Nfo",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s54119q.png",
+		"URL":"https://www.animenfo.com/radio/listen.php",
+		"streamURL":"http://momori.animenfo.com:8000/",
+		"lowQualityStreamURL":"http://momori.animenfo.com:8000/",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"Anime Radio",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s285251q.png",
+		"URL":"http://animeradio.co",
+		"streamURL":"http://151.80.155.101:8000/stream",
+		"lowQualityStreamURL":"http://151.80.155.101:8000/stream",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"Asia DREAM Radio",
+		"imageURL":"https://cdn-profiles.tunein.com/s280096/images/logoq.jpg",
+		"URL":"http://www.asiadreamradio.com/",
+		"streamURL":"http://cabhs31.sonixcast.com:20278/listen.mp3",
+		"lowQualityStreamURL":"http://cabhs31.sonixcast.com:20278/listen.mp3",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"Anison.FM",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s185342q.png",
+		"URL":"http://anison.fm/",
+		"streamURL":"http://pool.anison.fm:9000/AniSonFM(320)",
+		"lowQualityStreamURL":"http://pool.anison.fm:9000/AniSonFM(320)",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"Anime Nexus",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s108601q.png",
+		"URL":"http://www.animenexus.net/",
+		"streamURL":"http://radio.animenexus.mx:8000/animenexus",
+		"lowQualityStreamURL":"http://radio.animenexus.mx:8000/animenexus",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"Yggdrasil Radio",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s120196q.png",
+		"URL":"http://yggdrasilradio.net/",
+		"streamURL":"http://95.211.241.92:9100/;",
+		"lowQualityStreamURL":"http://95.211.241.92:9100/;",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"Wave Anime Radio",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s277840q.png",
+		"URL":"http://www.waveani.me/",
+		"streamURL":"http://s04.radio-tochka.com:5470/mount",
+		"lowQualityStreamURL":"http://s04.radio-tochka.com:5470/mount",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"Anime Obsesion",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s155743q.png",
+		"URL":"http://www.animeobsesion.net/",
+		"streamURL":"http://138.128.189.172:8000/;",
+		"lowQualityStreamURL":"http://138.128.189.172:8000/;",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"Radio Vocaloid",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s198764q.png",
+		"URL":"http://www.radiovocaloid.com/",
+		"streamURL":"http://142.4.217.133:9848/stream",
+		"lowQualityStreamURL":"http://142.4.217.133:9848/stream",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"Radio-Anime",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s177968q.png",
+		"URL":"http://www.radio-anime.net/",
+		"streamURL":"http://perseus.shoutca.st:9253/stream",
+		"lowQualityStreamURL":"http://perseus.shoutca.st:9253/stream",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"BaKaRadio",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s191619q.png",
+		"URL":"http://www.bakaradio.net/",
+		"streamURL":"http://112.121.150.133:9012/;",
+		"lowQualityStreamURL":"http://112.121.150.133:9012/;",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"Radio AnimeID",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s224240q.png",
+		"URL":"http://www.animeidradio.com/chatbox/",
+		"streamURL":"http://209.126.107.182:8204/stream",
+		"lowQualityStreamURL":"http://209.126.107.182:8204/stream",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"Radio Nami",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s105944q.png",
+		"URL":"http://animeradio.ru/",
+		"streamURL":"http://radio2.flex.ru:8000/radionami",
+		"lowQualityStreamURL":"http://radio2.flex.ru:8000/radionami",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"Extreme Anime Radio",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s117252q.png",
+		"URL":"http://radio.keiichi.net/",
+		"streamURL":"http://174.37.159.206:8052/stream",
+		"lowQualityStreamURL":"http://174.37.159.206:8052/stream",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"Otaku no Radio",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s103463q.png",
+		"URL":"http://otakunopodcast.com/",
+		"streamURL":"http://radio.otakunopodcast.com:8000/otakunoradio",
+		"lowQualityStreamURL":"http://radio.otakunopodcast.com:8000/otakunoradio",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"Anime Blast Radio",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s280317q.png",
+		"URL":"http://anime-blast.online/",
+		"streamURL":"http://curiosity.shoutca.st:6110/;",
+		"lowQualityStreamURL":"http://curiosity.shoutca.st:6110/;",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"Power 945",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s211158q.png",
+		"URL":"http://www.power945.net/",
+		"streamURL":"http://38.107.243.188:8514/;",
+		"lowQualityStreamURL":"http://38.107.243.188:8514/;",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"Touhou Radio",
+		"imageURL":"https://pbs.twimg.com/profile_images/1513953987/ffd2e344ce28f44702f9e2eb4ec711aa9c537b80_full_400x400.jpg",
+		"URL":"http://www.touhouradio.com/",
+		"streamURL":"http://touhouradio.com:8000/touhouradio.mp3",
+		"lowQualityStreamURL":"http://touhouradio.com:8000/touhouradio.mp3",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"Moriya no Jinja: Radio",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s264260q.png",
+		"URL":"http://moriyanojinja.xyz/",
+		"streamURL":"http://radio.moriyanojinja.xyz:8000/mnjr",
+		"lowQualityStreamURL":"http://radio.moriyanojinja.xyz:8000/mnjr",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"70s-90s J-pop Stream",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s143618q.png",
+		"URL":"http://twitter.com/70s90s_jstream",
+		"streamURL":"http://s5.voscast.com:7002/;",
+		"lowQualityStreamURL":"http://s5.voscast.com:7002/;",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"Big B Radio",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s135097q.png",
+		"URL":"http://bigbradio.net/jpop/",
+		"streamURL":"http://64.71.79.181:8024/;",
+		"lowQualityStreamURL":"http://64.71.79.181:8024/;",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"Hotmixradio Japan",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s139879q.png",
+		"URL":"http://www.hotmixradio.fr/",
+		"streamURL":"http://streaming.hotmixradio.fm/hotmixradio-japan-64.aac",
+		"lowQualityStreamURL":"http://streaming.hotmixradio.fm/hotmixradio-japan-64.aac",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"JPopsuki Radio",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s136422q.png",
+		"URL":"http://jpopsuki.eu/",
+		"streamURL":"http://jpopsuki.fm:8000/stream",
+		"lowQualityStreamURL":"http://jpopsuki.fm:8000/stream",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"J-Pop Project Radio",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s225524q.png",
+		"URL":"http://www.j-popprojectradio.com/",
+		"streamURL":"http://stream.sonixcast.com:9686/;",
+		"lowQualityStreamURL":"http://stream.sonixcast.com:9686/;",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"JPHiP Radio",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s54003q.png",
+		"URL":"http://jphip.com/",
+		"streamURL":"http://radio.jphip.com:8800/;",
+		"lowQualityStreamURL":"http://radio.jphip.com:8800/;",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"J-Idols Project Radio",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s257977q.png",
+		"URL":"http://www.j-popprojectradio.com/",
+		"streamURL":"http://cabhs33.sonixcast.com:20012/;",
+		"lowQualityStreamURL":"http://cabhs33.sonixcast.com:20012/;",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"Friends Forever",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s142061q.png",
+		"URL":"http://www.grahambaster.com/",
+		"streamURL":"http://23.29.71.154:8066/;",
+		"lowQualityStreamURL":"http://23.29.71.154:8066/;",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"NOAS FM",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s97680q.png",
+		"URL":"http://www.789.fm/",
+		"streamURL":"http://musicbird.leanstream.co/JCB089-MP3?args=tunein_02",
+		"lowQualityStreamURL":"http://musicbird.leanstream.co/JCB089-MP3?args=tunein_02",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"SBS PopAsia",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s126941q.png",
+		"URL":"http://www.sbs.com.au/popasia",
+		"streamURL":"http://shoutcast.sbs.com.au/SBSPopAsia",
+		"lowQualityStreamURL":"http://shoutcast.sbs.com.au/SBSPopAsia",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"TOKYO FM WORLD",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s2639q.png",
+		"URL":"http://www.tfm.co.jp/",
+		"streamURL":"http://tokyofmworld.leanstream.co/JOAUFM-MP3?args=tunein",
+		"lowQualityStreamURL":"http://tokyofmworld.leanstream.co/JOAUFM-MP3?args=tunein",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"FM Nagaoka",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s97672q.png",
+		"URL":"http://www.fmnagaoka.com/",
+		"streamURL":"http://musicbird.leanstream.co/JCB053-MP3?args=tunein_02",
+		"lowQualityStreamURL":"http://musicbird.leanstream.co/JCB053-MP3?args=tunein_02",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"COME ON ! FM",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s8443q.png",
+		"URL":"http://www.c-fm.co.jp/",
+		"streamURL":"http://musicbird.leanstream.co/JCB084-MP3?args=tunein_02",
+		"lowQualityStreamURL":"http://musicbird.leanstream.co/JCB084-MP3?args=tunein_02",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"H@! FM",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s203076q.png",
+		"URL":"http://twitter.com/hat_fm",
+		"streamURL":"http://musicbird.leanstream.co/JCB012-MP3?args=tunein_02",
+		"lowQualityStreamURL":"http://musicbird.leanstream.co/JCB012-MP3?args=tunein_02",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	},
+	{
+		"name":"Radio Agatt",
+		"imageURL":"https://cdn-radiotime-logos.tunein.com/s9565q.png",
+		"URL":"http://www.agatt769.co.jp/",
+		"streamURL":"http://musicbird.leanstream.co/JCB052-MP3?args=tunein_02",
+		"lowQualityStreamURL":"http://musicbird.leanstream.co/JCB052-MP3?args=tunein_02",
+		"favourite":"0",
+		"hidden":"0",
+		"databaseVersionAdded":1
+	}
+
+]

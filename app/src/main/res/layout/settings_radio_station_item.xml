@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="3dp"
+    android:orientation="vertical"
+    app:cardBackgroundColor="@color/cardview_dark_background"
+    app:cardElevation="0dp"
+    app:cardUseCompatPadding="false">
+
+    <RelativeLayout
+        android:id="@+id/settings_station_item_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="?attr/selectableItemBackground">
+
+        <ImageView
+            android:id="@+id/settings_station_item_cover"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginEnd="5dp"
+            android:padding="3dp" />
+
+        <TextView
+            android:id="@+id/settings_station_item_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="5dp"
+            android:layout_marginStart="5dp"
+            android:layout_toEndOf="@+id/settings_station_item_cover"
+            android:layout_toStartOf="@+id/settings_station_hide_switch"
+            android:maxLines="1"
+            android:textColor="@android:color/white"
+            android:textSize="18sp" />
+
+        <Switch
+            android:id="@+id/settings_station_hide_switch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:text="@string/settings_station_hide_switch"
+            android:textColor="@android:color/white" />
+
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

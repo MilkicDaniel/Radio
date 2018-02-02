@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#46b8da</color>
+    <color name="dark_grey">#424242</color>
+    <color name="dark_transparent_background">#c8000000</color>
+    <color name="gray_background">#303030</color>
+    <color name="gray_card_color">#424242</color>
+    <color name="gray_toolbar">#212121</color>
+    <color name="blue">#46b8da</color>
+    <color name="green">#79c3c4</color>
+
+    <color name="white">#fff</color>
+    <color name="cancel">#b76969</color>
+    <color name="create">#79c3c4</color>
+    <color name="player_background">#373737</color>
+    <color name="edit_text_hint">#a5a5a5</color>
+    <color name="station_item_cover_bg_color">#212121</color>
+    <!--<color name="edit_text_highlight">#a5a5a5</color>-->
+</resources>

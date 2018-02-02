@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cardview_dark_background"
+    tools:context="com.radio.daniel.radio.fragments.RadioStationSelectionFragment">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/station_selection_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:background="@color/gray_background" />
+
+
+</FrameLayout>

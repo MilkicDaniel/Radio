@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Japanese Radio</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>\
+
+    <string name="buffering">Buffering…</string>
+    <string name="missing_title">Missing Title</string>
+
+
+    <string name="id_radio_station">Radio Station</string>
+    <string name="id_button_click">Button Click</string>
+
+    <string name="action_next_station_bar">next_station</string>
+    <string name="action_previous_station_bar">previous_station</string>
+    <string name="action_play_bar">play_button_bar</string>
+    <string name="action_pause_bar">pause_button_bar</string>
+
+    <string name="action_play_notification">play_button_notification</string>
+    <string name="action_pause_notification">pause_button_notification</string>
+    <string name="action_next_station_notification">next_station</string>
+    <string name="action_previous_station_notification">previous_station</string>
+
+    <string name="navigation_settings">settings_navigation</string>
+    <string name="navigation_add_station">add_station_navigation</string>
+    <string name="navigation_info">info_navigation</string>
+    <string name="navigation_history">history_navigation</string>
+
+    <string name="added_station">added_station_%1$s</string>
+    <string name="hide_station">hide_station_%1$s</string>
+    <string name="show_station">show_station_%1$s</string>
+    <string name="favourited_station">favourited_station_%1$s</string>
+    <string name="unfavourited_station">unfavourited_station_%1$s</string>
+
+    <string name="use_lower_quality_stream">lower_quality_stream_%1$s</string>
+    <string name="headphones_cycle_favourites">headphones_cycle_favourites_%1$s</string>
+
+    <string name="drawer_opened">Drawer Opened</string>
+    <string name="drawer_closed">Drawer Closed</string>
+
+    <string name="drawer_menu_setting">Settings</string>
+    <string name="drawer_menu_info">Info</string>
+    <string name="drawer_menu_add_stream">Add Stream</string>
+    <string name="drawer_menu_history">History</string>
+
+    
+    <string name="history_item_station_song_title"><b>%1$s: </b>%2$s by %3$s</string>
+    
+    <string name="settings_station_hide_switch">Hide</string>
+
+    <string name="settings_stream_quality">Use low quality stream whenever possible</string>
+    <string name="settings_headphone_buttons_double_click">headphone button cycles through favourites</string>
+
+    <string name="station_name">Station Name<font fgcolor="#FF4081">*</font></string>
+    <string name="station_cover_url">Cover URL</string>
+    <string name="station_stream_url">Stream URL<font fgcolor="#FF4081">*</font></string>
+    <string name="station_low_quality_stream_url">Low Quality Stream URL</string>
+    <string name="station_site_url">Web Site URL</string>
+    <string name="station_cancel_button">Cancel</string>
+    <string name="station_create_button">Create</string>
+
+    <string name="saved_station_name">SavedStationName</string>
+    <string name="saved_station_cover_url">SavedCoverURL</string>
+    <string name="saved_station_stream_url">SavedStreamURL</string>
+    <string name="saved_station_low_quality_stream_url">SavedLowQualityStreamURL</string>
+    <string name="saved_station_site_url">SavedWebSiteURL</string>
+    <string name="saved_stream_quality">SavedStreamQuality</string>
+    <string name="saved_headphones_cycle_favourites">HeadphonesCycleFavours</string>
+
+
+    <string name="warning_missing_mandatory">The STATION NAME and STREAM URL are missing</string>
+    <string name="warning_wrong_extension_stream">The STREAM URL needs to end with .mp3, .m3u</string>
+    <string name="warring_wrong_extension_image">The COVER URL needs to end with .png or .jpg</string>
+    <string name="warring_name_taken">The STATION NAME is already taken</string>
+
+    <string name="notification_added_station">Added %1$s to station list</string>
+
+    <string name="station_name_hint">Anime Radio Station</string>
+    <string name="station_cover_url_hint">http://www.website.com/image.jpg</string>
+    <string name="station_stream_url_hint">http://www.website.com/stream.mp3</string>
+    <string name="station_low_quality_stream_url_hint">http://www.website.com/lqStream.mp3</string>
+    <string name="station_site_url_hint">http://www.website.com</string>
+    <string name="close_app">Tap the BACK BUTTON again to exit.</string>
+
+    <string name="rate_message">Would you like to take a moment to rate this app?</string>
+    <string name="rate_never">Never</string>
+    <string name="rate_later">Later</string>
+
+</resources>

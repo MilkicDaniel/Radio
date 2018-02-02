@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="all">
+        <item
+            android:id="@+id/navigation_settings"
+            android:icon="@mipmap/ic_settings_black_24dp"
+            android:title="@string/drawer_menu_setting"/>
+
+        <item
+            android:id="@+id/navigation_add_stream"
+            android:icon="@mipmap/ic_add_circle_black_48dp"
+            android:title="@string/drawer_menu_add_stream"/>
+
+        <item
+            android:id="@+id/navigation_info"
+            android:icon="@mipmap/ic_info_black_48dp"
+            android:title="@string/drawer_menu_info"/>
+
+    </group>
+
+</menu>
